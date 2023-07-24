@@ -21,7 +21,7 @@
       /* Add your north arrow styling here */
     }
     /* Custom CSS for hiding cells with the "@hide" tag */
-    .hidden-cell {
+    .hidden-cell {  
       display: none;
     }
   </style>
